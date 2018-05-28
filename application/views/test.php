@@ -7,7 +7,7 @@
 
 	<div class="tester">
 		<ul>
-			<li></li>
+			<li>git pull</li>
 			<li></li>
 			<li></li>
 			<li></li>
